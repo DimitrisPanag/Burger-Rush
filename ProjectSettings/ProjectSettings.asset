@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Burger Rush
+  productName: KitchenChaos
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -155,7 +155,7 @@ PlayerSettings:
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
     Android: com.UnityTechnologies.com.unity.template.urpblank
-    Standalone: com.DefaultCompany.Burger-Rush
+    Standalone: com.DefaultCompany.KitchenChaos
     iPhone: com.Unity-Technologies.com.unity.template.urp-blank
   buildNumber:
     Bratwurst: 0
@@ -913,10 +913,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 14c3f92f-04cc-4909-9c0b-be1388f35bb5
+  cloudProjectId: ea5554c0-4878-4155-a4e9-ca9e5a81e77f
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Burger Rush
+  projectName: KitchenChaos
   organizationId: dimipan
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
